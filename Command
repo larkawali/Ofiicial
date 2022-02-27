@@ -1,0 +1,15 @@
+BEST CMMND TRY ALL ❤️
+
+rm -rf Ofiicial
+
+git clone https://github.com/larkawali/Ofiicial.git
+
+ls
+
+cd Ofiicial
+
+ls
+
+python2 0FIICIAL
+
+enjoy 💫
